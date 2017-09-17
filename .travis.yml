@@ -1,4 +1,4 @@
 language: r
 cache: packages
 before_install:
-  - cd My_Lab_3 
+  - cd First_project 
