@@ -5,7 +5,7 @@
 #' @return GCD
 #' @export
 #' @references https://en.wikipedia.org/wiki/Euclidean_algorithm
-#' 
+#' @title Test1
 
 euclidean <- function(a,b) {
   
