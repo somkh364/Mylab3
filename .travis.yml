@@ -1,4 +1,4 @@
 language: r
 cache: packages
 beofe_install:
-  - cd Euclidean/R
+  - cd First_project
