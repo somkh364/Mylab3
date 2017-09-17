@@ -1,0 +1,9 @@
+Package: Euclidean
+Type: Package
+Title: Calculating GCD
+Version: 1.0
+Date: 2017-09-17
+Author: Somaya Khoda Bakhsh
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+RoxygenNote: 6.0.1
