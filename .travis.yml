@@ -1,14 +1,5 @@
-sudo: false
-
 language: r
-r:
-  - oldrel
-  - release
-  - devel
-  
 cache: packages
-
-install:
-  - Rscript -e 'install.packages(c("devtools","roxygen2","testthat"));devtools::install_deps("Euclidean")'
-script:
-  - Rscript -e 'devtools::check("Euclidean")'
+warnings_are_errors: false
+before_install:
+ - cd Euclidean
